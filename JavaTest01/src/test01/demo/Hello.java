@@ -6,7 +6,7 @@ package test01.demo;
          * 输出 System.out.println()   先输出后换行
          * 语句末尾 ； 结束*/
 
-        import java.util.Scanner;
+import java.util.Scanner;
 /*
  * 从键盘获取不同类型的变量 需要Scanner类
  * 1.导包： import java.util.Scanner   写在类的声明的上面

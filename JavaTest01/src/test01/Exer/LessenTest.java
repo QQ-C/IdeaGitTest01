@@ -1,4 +1,4 @@
-package test01.demo;
+package test01.Exer;
 
 import java.util.Arrays;
 import java.util.Scanner;
